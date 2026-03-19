@@ -6,7 +6,7 @@ ToneShift è un programma in Python che corregge automaticamente errori grammati
 
 ## 📸 Screenshot
 
-<img width="1377" height="1015" alt="image" src="https://github.com/user-attachments/assets/8c97e4ea-a173-46b5-8fc0-1550051e2eed" />
+<img width="1377" height="1015" alt="image" src="https://github.com/user-attachments/assets/10f0947b-aea0-4cda-a2a4-2e1d4c409138" />
 
 ---
 
